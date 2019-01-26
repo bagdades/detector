@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name w_conn_screw)(type KiCad)(uri ${KISYSMOD}/w_conn_screw.pretty)(options "")(descr ""))
+  (lib (name detector)(type KiCad)(uri ${KIPRJMOD}/detector.pretty)(options "")(descr ""))
+)

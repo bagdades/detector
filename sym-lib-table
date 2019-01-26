@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name w_connectors)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/w_connectors.lib)(options "")(descr ""))
+  (lib (name w_rtx)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/w_rtx.lib)(options "")(descr ""))
+  (lib (name detector)(type Legacy)(uri ${KIPRJMOD}/detector.lib)(options "")(descr ""))
+)
